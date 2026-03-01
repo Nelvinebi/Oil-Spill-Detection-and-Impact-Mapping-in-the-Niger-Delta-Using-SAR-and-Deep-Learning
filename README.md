@@ -93,6 +93,13 @@ Deep learning demonstrations using SAR data
 Author: 
 Agbozu Ebingiye Nelvin
 
+Email: nelvinebingiye@gmail.com
+
+GitHub: *https://github.com/Nelvinebi
+
+LinkedIn: *https://www.linkedin.com/in/agbozu-ebi/
+
+
 ⚠️ Disclaimer
 
 This project uses synthetic data for research and educational purposes. Results should not be used for operational decision-making without validation using real satellite data.
